@@ -79,7 +79,7 @@ def main():
     st.set_option('deprecation.showfileUploaderEncoding', False)
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
-    st.title("Data Cleaning App")
+    st.title("Data Cleaning")
 
     uploaded_file = st.file_uploader("Choose a file")
 
